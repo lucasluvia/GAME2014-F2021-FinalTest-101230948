@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿// EnemyController.cs
+// Lucas Dunster 101230948
+// DLM: Same From Template
+// Controller for Enemies
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

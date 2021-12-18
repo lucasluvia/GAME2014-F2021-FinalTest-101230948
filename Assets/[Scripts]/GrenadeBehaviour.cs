@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿// GrenadeBehaviour.cs
+// Lucas Dunster 101230948
+// DLM: Same From Template
+// Behaviour for grenades
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

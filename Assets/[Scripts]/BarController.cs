@@ -1,4 +1,9 @@
-﻿using System;
+﻿// BarController.cs
+// Lucas Dunster 101230948
+// DLM: Same From Template
+// Controller for Health Bars
+
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿// LOS.cs
+// Lucas Dunster 101230948
+// DLM: Same From Template
+// Line of Sight object, can be added to objects to allow them to respond to objects in a provided hitbox
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

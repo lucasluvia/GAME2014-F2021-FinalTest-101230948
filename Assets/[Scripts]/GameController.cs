@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿// GameController.cs
+// Lucas Dunster 101230948
+// DLM: Same From Template
+// Controller for the Game (platforms and bullets)
+
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;

@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿// MovingPlatformController.cs
+// Lucas Dunster 101230948
+// DLM: Same From Template
+// Controller for Moving Platforms
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

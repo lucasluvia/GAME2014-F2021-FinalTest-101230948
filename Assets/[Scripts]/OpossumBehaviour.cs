@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿// OpossumBehaviour.cs
+// Lucas Dunster 101230948
+// DLM: Same From Template
+// Controller for Enemy Opossum behaviour
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

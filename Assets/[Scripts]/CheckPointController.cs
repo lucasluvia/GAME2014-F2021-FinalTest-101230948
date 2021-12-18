@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿// CheckPointController.cs
+// Lucas Dunster 101230948
+// DLM: Same From Template
+// Controller for Checkpoints
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿// PlayerBehaviour.cs
+// Lucas Dunster 101230948
+// DLM: Same From Template
+// Controller for Player Behaviour
+
+using System.Collections;
 using System.Collections.Generic;
 using Cinemachine;
 using Unity.Mathematics;

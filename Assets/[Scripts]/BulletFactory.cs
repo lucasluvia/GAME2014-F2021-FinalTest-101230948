@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿// BulletFactory.cs
+// Lucas Dunster 101230948
+// DLM: Same From Template
+// Factory for creating Bullets
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

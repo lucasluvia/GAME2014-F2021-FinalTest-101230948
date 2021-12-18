@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿// PlayerController.cs
+// Lucas Dunster 101230948
+// DLM: Same From Template
+// Controller for Player
+
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
 using UnityEditor;

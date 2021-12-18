@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿// GemBehaviour.cs
+// Lucas Dunster 101230948
+// DLM: Same From Template
+// Controller for Gem Behaviour
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

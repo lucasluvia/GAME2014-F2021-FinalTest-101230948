@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿// BulletManager.cs
+// Lucas Dunster 101230948
+// DLM: Same From Template
+// Manager for bullets and bullet pool
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

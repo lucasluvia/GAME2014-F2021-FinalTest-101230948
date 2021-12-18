@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿// BulletController.cs
+// Lucas Dunster 101230948
+// DLM: Same From Template
+// Controller for Bullets
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
